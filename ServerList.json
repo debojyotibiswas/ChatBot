@@ -1,0 +1,18 @@
+{
+    "servers":[
+        {
+            "name":"LSW DEV",
+            "urls":{
+                "server1":["http://10.155.70.201:8080/prwev/PRServlet/","10.155.70.201"],
+                "server2":["http://10.155.70.207:8080/prwev/PRServlet/","10.155.70.207"]
+            }
+        },
+        {
+            "name":"BRMS DEV",
+            "urls":{
+                "server1":["http://10.155.69.192:8080/prwev/PRServlet/","10.155.69.192"],
+                "server2":["http://10.155.69.193:8080/prwev/PRServlet/","10.155.69.193"]
+            }
+        }
+    ]
+}
