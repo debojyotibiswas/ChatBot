@@ -1,0 +1,98 @@
+{
+    "DEV" : {
+        "CIFW":{
+            "name" : "Maintenence Express",
+            "IP" : ["10.155.666.251","10.155.45.35"],
+            "URL" : ["google","facebook"]
+        },
+        "LSW":{
+            "name" : "Loan Servicing Workflow",
+            "IP" : ["10.155.661.255","10.155.45.30"],
+            "URL" : ["google","facebook"]
+        },
+        "LSRP":{
+            "name" : "Loan Servicing and Rules Processing",
+            "IP" : ["10.155.665.255","10.155.4.36"],
+            "URL" : ["google","facebook"]
+        },
+        "BRMS":{
+            "name" : "Business Rules Management Service",
+            "IP" : ["10.155.666.5","10.155.5.36"],
+            "URL" : ["google","facebook"]
+        },
+        "INSW":{
+            "name" : "Insiders Workflow Investigation",
+            "IP" : ["1.155.666.255","10.15.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "IWDOD":{
+            "name" : "Frank Dodd Wires Investigation",
+            "IP" : ["105.155.666.255","10.55.45.36"],
+            "URL" : ["google","facebook"]
+        }
+
+    },
+    "SIT" : {
+        "CIFW":{
+            "name" : "Maintenence Express",
+            "IP" : ["101.155.666.255","100.155.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSW":{
+            "name" : "Loan Servicing Workflow",
+            "IP" : ["10.255.666.255","10.155.35.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSRP":{
+            "name" : "Loan Servicing and Rules Processing",
+            "IP" : ["10.155.6.255","10.155.436.36"],
+            "URL" : ["google","facebook"]
+        }
+    },
+    "PAT" : {
+        "CIFW":{
+            "name" : "Maintenence Express",
+            "IP" : ["10.155.56.255","10.155.786.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSW":{
+            "name" : "Loan Servicing Workflow",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSRP":{
+            "name" : "Loan Servicing and Rules Processing",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        }
+    },
+    "PROD": {
+        "CIFW":{
+            "name" : "Maintenence Express",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSW":{
+            "name" : "Loan Servicing Workflow",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        }
+    },
+    "PROD1": {
+        "CIFW":{
+            "name" : "Maintenence Express",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSW":{
+            "name" : "Loan Servicing Workflow",
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        },
+        "LSRP":{
+            
+            "IP" : ["10.155.666.255","10.155.45.36"],
+            "URL" : ["google","facebook"]
+        }
+    }
+}
